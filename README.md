@@ -53,5 +53,7 @@ The following screenshot shows the changed cell background based on the cell val
 
 Take a moment to peruse the [WPF DataGrid - Conditional Styling](https://help.syncfusion.com/wpf/datagrid/conditional-styling) documentation, where you can find about conditional styling with code examples.
 
+KB article - [How to change the cell background based on the cell value in WPF DataGrid (SfDataGrid)?](https://www.syncfusion.com/kb/12628/how-to-change-the-cell-background-based-on-the-cell-value-in-wpf-datagrid-sfdatagrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
